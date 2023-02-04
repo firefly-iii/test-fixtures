@@ -34,10 +34,6 @@
 
 ## Firefly III test fixtures
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/firefly-iii/firefly-iii/develop/.github/assets/img/imac-complete.png" alt="Firefly III on iMac" />
-</p>
-
 This repository contains a SQLite database with test fixtures.
 
 
