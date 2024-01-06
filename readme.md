@@ -25,7 +25,7 @@
 <!-- MarkdownTOC autolink="true" -->
 
 - [Firefly III test fixtures](#firefly-iii-test-fixtures)
-- [Need help?](#need-help)
+- [Do you need help, or do you want to get in touch?](#do-you-need-help-or-do-you-want-to-get-in-touch)
 - [Support the development of Firefly III](#support-the-development-of-firefly-iii)
 - [License](#license)
 - [Contact](#contact)
@@ -38,22 +38,27 @@ This repository contains a SQLite database with test fixtures.
 
 
 <!-- HELP TEXT -->
-## Need help?
 
-If you need support using Firefly III or the associated tools, come find us!
+## Do you need help, or do you want to get in touch?
 
-- [GitHub Discussions for questions and support](https://github.com/firefly-iii/firefly-iii/discussions/)
-- [Gitter.im for a good chat and a quick answer](https://gitter.im/firefly-iii/firefly-iii)
-- [GitHub Issues for bugs and issues](https://github.com/firefly-iii/firefly-iii/issues)
-- <a rel="me" href="https://fosstodon.org/@ff3">Follow me around for news and updates on Mastodon</a>
+Do you want to contact me? You can email me at [james@firefly-iii.org](mailto:james@firefly-iii.org) or get in touch through one of the following support channels:
+
+- [GitHub Discussions](https://github.com/firefly-iii/firefly-iii/discussions/) for questions and support
+- [Gitter.im](https://gitter.im/firefly-iii/firefly-iii) for a good chat and a quick answer
+- [GitHub Issues](https://github.com/firefly-iii/firefly-iii/issues) for bugs and issues
+- <a rel="me" href="https://fosstodon.org/@ff3">Mastodon</a> for news and updates
 
 <!-- END OF HELP TEXT -->
 
+<!-- SPONSOR TEXT -->
+
 ## Support the development of Firefly III
 
-If you like Firefly III and if it helps you save lots of money, why not send me a dime for every dollar saved! :tada:
+If you like Firefly III and if it helps you save lots of money, why not send me a dime for every dollar saved! 🥳
 
-OK that was a joke. If you feel Firefly III made your life better, consider contributing as a sponsor. Please check out my [Patreon](https://www.patreon.com/jc5) and [GitHub Sponsors](https://github.com/sponsors/JC5) page for more information. Thank you for considering donating to Firefly III!
+OK that was a joke. If you feel Firefly III made your life better, please consider contributing as a sponsor. Please check out my [Patreon](https://www.patreon.com/jc5) and [GitHub Sponsors](https://github.com/sponsors/JC5) page for more information. You can also [buy me a ☕️ coffee at ko-fi.com](https://ko-fi.com/Q5Q5R4SH1). Thank you for your consideration.
+
+<!-- END OF SPONSOR TEXT -->
 
 ## License
 
