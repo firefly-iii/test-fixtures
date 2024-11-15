@@ -36,6 +36,8 @@
 
 This repository contains a SQLite database with test fixtures.
 
+To regenerate the test fixtures, run `generate-test-sqlite.sh` from the data generator.
+
 
 <!-- HELP TEXT -->
 
